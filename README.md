@@ -6,19 +6,14 @@ Controlly is a production-style, design-focused admin and product insights dashb
 
 ## Dashboard Preview
 
-![Controlly Dashboard Preview](./assets/preview-720.png)
+![Controlly Dashboard Preview](./assets/preview-1152.png)
 
 ---
 
 ## Live UI Demo
 
-<video src="./assets/demo.mp4"
-       autoplay
-       loop
-       muted
-       controls
-       width="720"  
-/>
+![Controlly Dashboard Preview](./assets/demo.gif)
+
 
 
 ## 🔑 Highlights
